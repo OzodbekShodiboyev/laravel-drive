@@ -1,0 +1,57 @@
+/* Custom CSS for the Dashboard */
+
+/* Container for the entire dashboard */
+.container {
+    margin-top: 20px;
+}
+
+/* Card styles for file upload and folder creation forms */
+.card {
+    margin-bottom: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.card-header {
+    background-color: #f8f9fa;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.card-body {
+    padding: 15px;
+}
+
+/* Form styles */
+.form-group {
+    margin-bottom: 15px;
+}
+
+/* Button styles */
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+/* Folder and File list styles */
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+/* Highlight the current folder */
+h3 {
+    margin-top: 20px;
+    font-size: 1.2rem;
+    color: #007bff;
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+    .col-md-6 {
+        margin-bottom: 20px;
+    }
+}

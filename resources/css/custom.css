@@ -1,0 +1,23 @@
+/* Adjust the styles according to your design preferences */
+.card {
+    margin-bottom: 20px;
+}
+
+.card-header {
+    background-color: #f0f0f0;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.card-body {
+    padding: 15px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
